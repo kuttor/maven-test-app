@@ -1,5 +1,5 @@
 # maven-test-app
-Maven application to test Ci/CD pipeline
+- Maven application to test Ci/CD pipeline
 
 ## How to run
 1. git clone https://github.com/kuttor/maven-test-app
