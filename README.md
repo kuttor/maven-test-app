@@ -7,3 +7,5 @@
 3. mvn compile
 4. java -cp target/classes com.DimensionData.app.App
 
+## Reference
+- https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
