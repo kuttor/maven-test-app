@@ -4,7 +4,7 @@
   <groupId>com.DimensionData.app</groupId>
   <artifactId>maven-test-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>hello-world</name>
   <url>http://maven.apache.org</url>
 
