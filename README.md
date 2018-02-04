@@ -21,4 +21,5 @@ This repository is connected with a Jenkins build to demonstrate an automatice c
 ### Reference
 [Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 [Artifactory User Guide](https://www.jfrog.com/confluence/display/RTF/Welcome+to+Artifactory)
+[Jenkins Artifactory plugin](https://wiki.jenkins.io/display/JENKINS/Artifactory+Plugin)
 
